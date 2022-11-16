@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.submitButton {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+
+.spanText {
+  margin-right: 7px;
+}
+
+.form {
+  width: 100%;
+  max-width: 100%;
+  padding: 0 15px;
+}
+
+.icon {
+  margin-right: 7px;
+}
